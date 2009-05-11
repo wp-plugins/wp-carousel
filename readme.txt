@@ -14,8 +14,8 @@ The plugin uses jQuery, and load it directly from your WordPress installation fi
 == Installation ==
 
 1. Upload `wp-carousel` folder to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place `<?php wp_carousel(''); ?>` in your templates
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Place `<?php wp_carousel(''); ?>` in your templates
 
 == Frequently Asked Questions ==
 
