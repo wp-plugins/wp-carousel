@@ -24,9 +24,3 @@ The plugin uses jQuery, and load it directly from your WordPress installation fi
 You can edit the carousel's images placed in `img` folder (inside `wp-carousel` folder).
 
 CSS code is located in `carousel-css.php`, in `wp-carousel`.
-
-== Screenshots ==
-
-1. Carousel in WordPress Default theme
-2. Carousel in WordPress Default theme (too)
-3. WP Carousel's options page
