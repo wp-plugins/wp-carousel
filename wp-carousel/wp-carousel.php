@@ -99,7 +99,7 @@
 				<?php while ($carousel_posts->have_posts()) : $carousel_posts->the_post(); ?>
 			
 				<div class="panel">
-					<a href="<?php echo get_permalink(); ?>"><img src="<?php echo wp_carousel_first_image(); ?>"  width="265px" height="150px"/></a>
+					<a href="<?php echo get_permalink(); ?>"><img src="<?php echo wp_carousel_first_image(); ?>" /></a>
 					<div class="panel-text">
 						 <?php the_excerpt(); ?> 
 						 <?php
