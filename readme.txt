@@ -3,8 +3,6 @@ Tags: posts, images, carousel, theme
 Requires at least: 2.5
 Tested up to: 2.7.1
 
-WP Carousel is a plugin that allows you to add a carousel with a category's posts. Is easy to install and use.
-
 == Description ==
 
 WP Carousel is a plugin that create a carousel with a category's posts, and you can put it anywhere on the blog.
