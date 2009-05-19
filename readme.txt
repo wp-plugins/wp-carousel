@@ -2,7 +2,7 @@
 Tags: posts, images, carousel, theme
 Requires at least: 2.5
 Tested up to: 2.7.1
-Stable tag: 0.2
+Stable tag: 0.2.1
 
 == Description ==
 
