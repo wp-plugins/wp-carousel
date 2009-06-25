@@ -1,8 +1,10 @@
-=== WP Carousel ===
-Tags: posts, images, carousel, theme
-Requires at least: 2.5
-Tested up to: 2.7.1
-Stable tag: 0.2.2
+=== Plugin Name ===
+Tags: posts, images, carousel, theme, sidebar, widget
+Requires at least: 2.8
+Tested up to: 2.8
+Stable tag: 0.3
+
+WP Carousel is a plugin that allows you to add a carousel with a category's posts. Is easy to install and use.
 
 == Description ==
 
@@ -15,8 +17,10 @@ The plugin uses jQuery, and load it directly from your WordPress installation fi
 == Installation ==
 
 1. Upload `wp-carousel` folder to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Place `<?php wp_carousel(''); ?>` in your templates
+1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Place `<?php wp_carousel(CAROUSEL'S ID); ?>` in your templates
+
+More info in: http://sumolari.com/plugins-temas/wp-carousel/#english-tutorials
 
 == Frequently Asked Questions ==
 
@@ -25,3 +29,7 @@ The plugin uses jQuery, and load it directly from your WordPress installation fi
 You can edit the carousel's images placed in `img` folder (inside `wp-carousel` folder).
 
 CSS code is located in `carousel-css.php`, in `wp-carousel`.
+
+== Demo ==
+
+You can see a demo in: http://sumolari.com/demos/wp-carousel
