@@ -4,7 +4,7 @@
 		Plugin Name: WP Carousel
 		Plugin URI: http://sumolari.com/?p=1759
 		Description: A simple posts and pages carousel for WordPress
-		Version: 0.4.0.2
+		Version: 0.4.0.3
 		Author: Sumolari
 		Author URI: http://sumolari.com
 	*/
