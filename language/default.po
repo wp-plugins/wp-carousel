@@ -1,0 +1,610 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp_carousel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-06 10:07+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Sumolari <sumolari@gmail.com>\n"
+"Language-Team: Sumolari <sumolari@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel\n"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:481
+msgid "Carousel "
+msgstr "Carousel "
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:485
+msgid "Export"
+msgstr "Export"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:487
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3554
+msgid "Import"
+msgstr "Import"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:489
+msgid "Uninstall"
+msgstr "Uninstall"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:491
+msgid "Add"
+msgstr "Add"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:583
+#, php-format
+msgid "<p>Do you really want to delete the carousel with ID \"%s\"? That can't be undone.</p>"
+msgstr "<p>Do you really want to delete the carousel with ID \"%s\"? That can't be undone.</p>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:584
+#, php-format
+msgid "<p>Click <a href=\"%s\">here</a> to delete the carousel or click <a href=\"%s\">here</a> to return to the carousel's options page</p>"
+msgstr "<p>Click <a href=\"%s\">here</a> to delete the carousel or click <a href=\"%s\">here</a> to return to the carousel's options page</p>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:608
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:615
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1131
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1142
+msgid "Name"
+msgstr "Name"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:609
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:616
+msgid "Value"
+msgstr "Value"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:623
+msgid "Number of carousels"
+msgstr "Number of carousels"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:627
+msgid "Language"
+msgstr "Language"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:653
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:878
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1071
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1197
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1272
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1548
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1609
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1930
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1977
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2141
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2186
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2438
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2487
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2593
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2968
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3107
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3205
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3296
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3461
+msgid "Errors"
+msgstr "Errors"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:658
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:668
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:883
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1076
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1202
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1212
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1277
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1553
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1563
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1614
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1624
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1935
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1945
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1982
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1992
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2146
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2156
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2191
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2201
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2443
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2453
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2492
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2502
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2598
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2608
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2973
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2983
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3112
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3122
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3210
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3220
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3301
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3311
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3466
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3476
+msgid "Log"
+msgstr "Log"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1096
+#, php-format
+msgid "The item has been removed. Do you want to <a href=\"%s\">undo</a>?"
+msgstr "The item has been removed. Do you want to <a href=\"%s\">undo</a>?"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1101
+#, php-format
+msgid "The item has been added. Do you want to <a href=\"%s\">undo</a>?"
+msgstr "The item has been added. Do you want to <a href=\"%s\">undo</a>?"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1106
+#, php-format
+msgid "The item has been edited. Do you want to <a href=\"%s\">undo</a>?"
+msgstr "The item has been edited. Do you want to <a href=\"%s\">undo</a>?"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1122
+#, php-format
+msgid "Carousel %s options page"
+msgstr "Carousel %s options page"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1129
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1140
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2656
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2757
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2857
+msgid "Order"
+msgstr "Order"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1130
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1141
+msgid "Type"
+msgstr "Type"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1132
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1143
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2789
+msgid "Description"
+msgstr "Description"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1133
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1144
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2661
+msgid "Must I show this element in the loop?"
+msgstr "Must I show this element in the loop?"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1134
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1145
+msgid "ID"
+msgstr "ID"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1182
+msgid "Delete this carousel"
+msgstr "Delete this carousel"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1376
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1382
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1387
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1395
+#, php-format
+msgid "Edit \"%s\""
+msgstr "Edit \"%s\""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1415
+msgid "View this item in a new page"
+msgstr "View this item in a new page"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1415
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1426
+msgid "View"
+msgstr "View"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1426
+msgid "View this costumized content in a new page"
+msgstr "View this costumized content in a new page"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1430
+msgid "Edit this item"
+msgstr "Edit this item"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1430
+msgid "Edit"
+msgstr "Edit"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1432
+msgid "Remove this item from this carousel"
+msgstr "Remove this item from this carousel"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1432
+msgid "Remove"
+msgstr "Remove"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1443
+msgid "Yes"
+msgstr "Yes"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1449
+msgid "No"
+msgstr "No"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1517
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1570
+msgid "Category"
+msgstr "Category"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1521
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1571
+msgid "Post"
+msgstr "Post"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1525
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1572
+msgid "Page"
+msgstr "Page"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1529
+msgid "Customized Content"
+msgstr "Customized Content"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:1742
+#, php-format
+msgid "This category has %s posts"
+msgstr "This category has %s posts"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2630
+msgid "Add pages, categories or posts"
+msgstr "Add pages, categories or posts"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2631
+msgid "Create and add costumized content"
+msgstr "Create and add costumized content"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2646
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2670
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2737
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2767
+msgid "Publish"
+msgstr "Publish"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2653
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2744
+msgid "Are you ready to add this content to the carousel?"
+msgstr "Are you ready to add this content to the carousel?"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2688
+msgid "Type of content"
+msgstr "Type of content"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2690
+msgid "Here you can select among three kinds of content: posts, pages and categories. When you have selected one of these types of content, you'll see a new dropdown menu with a list of avaible content of that type."
+msgstr "Here you can select among three kinds of content: posts, pages and categories. When you have selected one of these types of content, you'll see a new dropdown menu with a list of avaible content of that type."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2698
+msgid "Avaible content"
+msgstr "Avaible content"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2700
+msgid "Here you can select the content that will be added to the carousel"
+msgstr "Here you can select the content that will be added to the carousel"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2747
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2847
+msgid "Image URL"
+msgstr "Image URL"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2752
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2852
+msgid "Link URL"
+msgstr "Link URL"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2785
+msgid "Title"
+msgstr "Title"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2821
+msgid "Edit content"
+msgstr "Edit content"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2822
+msgid "Add content"
+msgstr "Add content"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2837
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2867
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3021
+msgid "Save changes"
+msgstr "Save changes"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2844
+msgid "Are you ready to save the changes?"
+msgstr "Are you ready to save the changes?"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2996
+msgid "Themes"
+msgstr "Themes"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:2997
+msgid "Display options"
+msgstr "Display options"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3022
+msgid "Carousel settings"
+msgstr "Carousel settings"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3025
+msgid "Show arrows?"
+msgstr "Show arrows?"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3034
+msgid "Posts moved in each manual movement (0 for disable manual movements and arrows)"
+msgstr "Posts moved in each manual movement (0 for disable manual movements and arrows)"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3040
+msgid "Enable pagination?"
+msgstr "Enable pagination?"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3049
+msgid "Enable loop mode?"
+msgstr "Enable loop mode?"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3058
+msgid "Autoslide settings"
+msgstr "Autoslide settings"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3061
+msgid "Time between each autoslide (0 for disable autoslides)"
+msgstr "Time between each autoslide (0 for disable autoslides)"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3067
+msgid "Posts moved in each autoslide (0 for disable autoslides)"
+msgstr "Posts moved in each autoslide (0 for disable autoslides)"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3073
+msgid "Size settings"
+msgstr "Size settings"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3076
+msgid "Panel width (size and unit, leave blank to use panel original's width)"
+msgstr "Panel width (size and unit, leave blank to use panel original's width)"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3082
+msgid "Image width (size and unit, leave blank to use image original's width)"
+msgstr "Image width (size and unit, leave blank to use image original's width)"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3088
+msgid "Image height (size and unit, leave blank to use image original's height)"
+msgstr "Image height (size and unit, leave blank to use image original's height)"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3165
+msgid "New carousel added"
+msgstr "New carousel added"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3166
+#, php-format
+msgid "A carousel with ID %s has been added into the DataBase. Click <a href=\"%s\">here</a> to add another one or click <a href=\"%s\">here</a> to go to its options page."
+msgstr "A carousel with ID %s has been added into the DataBase. Click <a href=\"%s\">here</a> to add another one or click <a href=\"%s\">here</a> to go to its options page."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3371
+msgid "Current Theme"
+msgstr "Current Theme"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3373
+msgid "Current theme preview"
+msgstr "Current theme preview"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3374
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3415
+msgid "by"
+msgstr "by"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3374
+msgid "Visit author homepage"
+msgstr "Visit author homepage"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3375
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3416
+#, php-format
+msgid "Version %s"
+msgstr "Version %s"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3376
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3419
+#, php-format
+msgid "<p>All of this theme&#8217;s files are located in <code>%s</code>.</p>"
+msgstr "<p>All of this theme&#8217;s files are located in <code>%s</code>.</p>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3381
+msgid "Available Themes"
+msgstr "Available Themes"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3417
+msgid "Activate"
+msgstr "Activate"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3417
+msgid "Visit theme site"
+msgstr "Visit theme site"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3417
+msgid "Visit author site"
+msgstr "Visit author site"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3501
+msgid "Export page"
+msgstr "Export page"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3502
+msgid "Copy this code and paste it in a text file to make a backup. If you want to load a backup, copy this code and paste it in the import page."
+msgstr "Copy this code and paste it in a text file to make a backup. If you want to load a backup, copy this code and paste it in the import page."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3548
+msgid "Import page"
+msgstr "Import page"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3549
+msgid "Copy in this page the code of a backup. Importing a backup is undoable and will replace all WP Carousel's data with the backup's data."
+msgstr "Copy in this page the code of a backup. Importing a backup is undoable and will replace all WP Carousel's data with the backup's data."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3550
+msgid "That code is not a valid WP Carousel backup code"
+msgstr "That code is not a valid WP Carousel backup code"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3573
+msgid "Uninstall WP Carousel"
+msgstr "Uninstall WP Carousel"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3574
+msgid "This will delete all the content in the Data Base that was added by WP Carousel. It can't be undone. Are you sure?"
+msgstr "This will delete all the content in the Data Base that was added by WP Carousel. It can't be undone. Are you sure?"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3575
+#, php-format
+msgid "Click <a href=\"%s\">here</a> to continue."
+msgstr "Click <a href=\"%s\">here</a> to continue."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/wp-carousel.php:3614
+msgid "Carousel's ID"
+msgstr "Carousel's ID"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/themes/default/index.php:7
+msgid "WP Carousel 0.3 Look"
+msgstr "WP Carousel 0.3 Look"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/themes/default/index.php:9
+msgid "Use WP Carousel 0.3's theme"
+msgstr "Use WP Carousel 0.3's theme"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/themes/default/theme.php:6
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/themes/default-kubrick/theme.php:6
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/themes/default-sidebar/theme.php:7
+#, php-format
+msgid "Forward %s panel"
+msgstr "Forward %s panel"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/themes/default/theme.php:15
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/themes/default-kubrick/theme.php:15
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/themes/default-sidebar/theme.php:14
+#, php-format
+msgid "Back %s panel"
+msgstr "Back %s panel"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/themes/default-kubrick/index.php:7
+msgid "WP Carousel 0.3 - Kubrick Look"
+msgstr "WP Carousel 0.3 - Kubrick Look"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/themes/default-kubrick/index.php:9
+msgid "Use WP Carousel 0.3's theme with colors of Kubrick theme"
+msgstr "Use WP Carousel 0.3's theme with colors of Kubrick theme"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/themes/default-sidebar/index.php:7
+msgid "WP Carousel Default - Sidebar"
+msgstr "WP Carousel Default - Sidebar"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/plugins/wp-carousel/themes/default-sidebar/index.php:9
+msgid "The default theme adapted to sidebars"
+msgstr "The default theme adapted to sidebars"
+
+#~ msgid "Save Changes"
+#~ msgstr "Save Changes"
+#~ msgid ""
+#~ "You are about to delete this post \\'%s\\'\n"
+#~ " \\'Cancel\\' to stop, \\'OK\\' to delete."
+#~ msgstr ""
+#~ "You are about to delete this post \\'%s\\'\n"
+#~ " \\'Cancel\\' to stop, \\'OK\\' to delete."
+#~ msgid "To show the menu, add this code in your theme:"
+#~ msgstr "To show the menu, add this code in your theme:"
+#~ msgid "Status"
+#~ msgstr "Status"
+#~ msgid "URL"
+#~ msgstr "URL"
+#~ msgid "Father"
+#~ msgstr "Father"
+#~ msgid "Edit a link"
+#~ msgstr "Edit a link"
+#~ msgid "Add a link"
+#~ msgstr "Add a link"
+#~ msgid "Save"
+#~ msgstr "Save"
+#~ msgid "as a"
+#~ msgstr "as a"
+#~ msgid "draft"
+#~ msgstr "draft"
+#~ msgid ""
+#~ "Click <a href=\"%s\">here</a> to add a new link instead of edit an old "
+#~ "one <br />"
+#~ msgstr ""
+#~ "Click <a href=\"%s\">here</a> to add a new link instead of edit an old "
+#~ "one <br />"
+#~ msgid "Update"
+#~ msgstr "Update"
+#~ msgid "Link type"
+#~ msgstr "Link type"
+#~ msgid "Select a link type from the list"
+#~ msgstr "Select a link type from the list"
+#~ msgid "Tag"
+#~ msgstr "Tag"
+#~ msgid "User"
+#~ msgstr "User"
+#~ msgid "Select an item for the link"
+#~ msgstr "Select an item for the link"
+#~ msgid "(previously \"%s\" )"
+#~ msgstr "(previously \"%s\" )"
+#~ msgid "Draft"
+#~ msgstr "Draft"
+#~ msgid "Published"
+#~ msgstr "Published"
+#~ msgid "to a post"
+#~ msgstr "to a post"
+#~ msgid "to a page"
+#~ msgstr "to a page"
+#~ msgid "to a category"
+#~ msgstr "to a category"
+#~ msgid "to a tag"
+#~ msgstr "to a tag"
+#~ msgid "to an user"
+#~ msgstr "to an user"
+#~ msgid "to an URL"
+#~ msgstr "to an URL"
+#~ msgid "You are going to delete"
+#~ msgstr "You are going to delete"
+#~ msgid "Cancel"
+#~ msgstr "Cancel"
+#~ msgid "to stop"
+#~ msgstr "to stop"
+#~ msgid "OK"
+#~ msgstr "OK"
+#~ msgid "to delete."
+#~ msgstr "to delete."
+#~ msgid "Delete"
+#~ msgstr "Delete"
+#~ msgid ""
+#~ "If you have a WP Main Menu's exportation code, copy it in this field and "
+#~ "click on \"%s\" "
+#~ msgstr ""
+#~ "If you have a WP Main Menu's exportation code, copy it in this field and "
+#~ "click on \"%s\" "
+#~ msgid "Manage Themes"
+#~ msgstr "Manage Themes"
+#~ msgid ""
+#~ "<p>Are you sure that you want to uninstall WP Main Menu? It will erase "
+#~ "all WP Main Menu's data in the DataBase.</p><p>Click <a href=\"%s\">here</"
+#~ "a> if you want to delete WP Main Menu's data. After that you must "
+#~ "deactivate WP Main Menu and finally, you must delete the folder <strong>%"
+#~ "s</strong>.</p><p>If you don't do that steps, you will restart WP Main "
+#~ "Menu, but you will not delete it.</p>"
+#~ msgstr ""
+#~ "<p>Are you sure that you want to uninstall WP Main Menu? It will erase "
+#~ "all WP Main Menu's data in the DataBase.</p><p>Click <a href=\"%s\">here</"
+#~ "a> if you want to delete WP Main Menu's data. After that you must "
+#~ "deactivate WP Main Menu and finally, you must delete the folder <strong>%"
+#~ "s</strong>.</p><p>If you don't do that steps, you will restart WP Main "
+#~ "Menu, but you will not delete it.</p>"
+#~ msgid "A basic theme for WP Main Menu"
+#~ msgstr "A basic theme for WP Main Menu"
+#~ msgid "An excellent theme for Kubrick WordPress's theme"
+#~ msgstr "An excellent theme for Kubrick WordPress's theme"
+#~ msgid "Unnistall"
+#~ msgstr "Unnistall"
+
