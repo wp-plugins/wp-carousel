@@ -6,6 +6,8 @@ Stable tag: 0.4.0.11
 
 WP Carousel is a plugin that allows you to add a carousel with posts, categories or pages. Is easy to install and use.
 
+If you have any problem or suggestion, please, write [here](http://foro.sumolari.com/index.php/board,34.0.html).
+
 == Description ==
 
 WP Carousel is a plugin that create a carousel with a posts, category's posts or pages, and you can put it anywhere on the blog.
