@@ -1,6 +1,6 @@
 === Plugin Name ===
 Tags: posts, images, carousel, theme, sidebar, widget
-Requires at least: 2.8
+Requires at least: 3.0
 Tested up to: 3.0
 Stable tag: 0.5.2
 
