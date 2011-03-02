@@ -14,6 +14,14 @@ In the plugin's options page you can add items to each carousel and there you ca
 
 The plugin uses jQuery and StepCarousel.
 
+***
+
+**Support:** Please, if you have any question, problem or comment, ask them [in the forum](http://foro.sumolari.com/index.php/board,34.0.html "Sumolari.com Forums")
+ 
+***
+
+**Beta:** WP Carousel 1.0 (Beta) is available. Do you want to try it? [Download the beta](http://downloads.wordpress.org/plugin/wp-carousel.1.0-Beta.zip).
+
 == Installation ==
 
 1. Upload `wp-carousel` folder to the `/wp-content/plugins/` directory
