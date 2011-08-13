@@ -2,7 +2,7 @@
 Tags: posts, images, carousel, theme, sidebar, widget
 Requires at least: 3.0
 Tested up to: 3.2
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 WP Carousel is a plugin that allows you to add a carousel with posts, categories, tags, authors, pages, and much more. It is easy to install and use.
 
